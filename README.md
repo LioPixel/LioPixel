@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Lio from Germany<br><br>- 🔭 I’m working on a 2D game.<br>- 📚 I'm currently learning C#.<br>- ⚡ In my free time I love to code.</p>
+<p align="left">I'm Lio from Germany<br><br>- 🔭 I’m working on a 2D game.<br>- 📚 I'm currently learning C#.<br>- ⚡ In my free time I love to code.<br>- 📞 Contact me: liopixel13@gmail.com</p>
 
 ###
 
